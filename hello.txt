@@ -1,5 +1,3 @@
-Hello! Buenos dias!
+Hello!
 
 Let's do some merge!
-
-Let's do some fetch
